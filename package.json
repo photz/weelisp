@@ -1,0 +1,21 @@
+{
+  "name": "weelisp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  },
+  "devDependencies": {
+    "google-closure-compiler": "^20180506.0.0",
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lisp"
+  ],
+  "author": "",
+  "license": "ISC"
+}
